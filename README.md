@@ -70,7 +70,7 @@ This fork exists because the original mod wasn't accepting pull requests for new
 
 ## Acknowledgements
 * **Original mod** by [pcal.net](https://github.com/pcal43/splitscreen) - All credit for the core concept and initial implementation
-* **This fork** maintained by nicholas with community contributions
+* **This fork** maintained by FlyingEwok with community contributions
 * Video courtesy of [wormstweaker](https://www.youtube.com/@WORMSTweaker)
 * Icon based on [Squares icons created by Rahul Kaklotar - Flaticon](https://www.flaticon.com/free-icons/squares)
 
